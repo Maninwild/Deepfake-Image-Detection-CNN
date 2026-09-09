@@ -1,0 +1,5 @@
+{
+  "epochs_done": 25,
+  "best_val_auc": 0.9039011597633362,
+  "epochs_since_improve": 0
+}
